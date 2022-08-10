@@ -19,7 +19,7 @@ ARKOS is an open source community-driven cryptocurrency, focused on five main as
 
 (5) Ease of Use: ARKOS is determined to offer the best possible graphical interface for a core node/wallet. A full featured graphical product for new and advanced users.
 
-A lot more information and specs at [myarkos.com](https://www.myarkos.com/). Join the community at [ARKOS Discord](https://discordapp.com/invite/jzqVsJd).
+A lot more information and specs at [myarkos.com](https://www.myarkos.com/). Join the community at [ARKOS Discord](https://discord.gg/GDhxm9RwtQ).
 
 ## License
 ARKOS Core is released under the terms of the MIT license. See [COPYING](https://github.com/PIVX-Project/PIVX/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
