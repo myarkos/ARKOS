@@ -1,13 +1,13 @@
-PIVX Core integration/staging repository
+ARKOS Core integration/staging repository
 =====================================
 
 [![master Actions Status](https://github.com/PIVX-Project/PIVX/workflows/CI%20Actions%20for%20PIVX/badge.svg)](https://github.com/PIVX-Project/PIVX/actions)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/PIVX-Project/pivx?color=%235c4b7d&cacheSeconds=3600)](https://github.com/PIVX-Project/PIVX/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/PIVX-Project/pivx?color=%235c4b7d&cacheSeconds=3600)](https://github.com/PIVX-Project/PIVX/releases)
 
-## What is PIVX?
+## What is ARKOS?
 
-PIVX is an open source community-driven cryptocurrency, focused on five main aspects:
+ARKOS is an open source community-driven cryptocurrency, focused on five main aspects:
 
 (1) User Data Protection: Through the use of SHIELD, a zk-SNARKs based privacy protocol.
 
@@ -15,18 +15,18 @@ PIVX is an open source community-driven cryptocurrency, focused on five main asp
 
 (3) Decentralized Governance System: A DAO built on top of the tier two Masternodes network, enabling a monthly community treasury, proposals submission and decentralized voting.
 
-(4) Fast Transactions: Through the use of fast block times and the tier two network, PIVX is committed to continue researching new and better instant transactions mechanisms.
+(4) Fast Transactions: Through the use of fast block times and the tier two network, ARKOS is committed to continue researching new and better instant transactions mechanisms.
 
-(5) Ease of Use: PIVX is determined to offer the best possible graphical interface for a core node/wallet. A full featured graphical product for new and advanced users.
+(5) Ease of Use: ARKOS is determined to offer the best possible graphical interface for a core node/wallet. A full featured graphical product for new and advanced users.
 
-A lot more information and specs at [PIVX.org](https://www.pivx.org/). Join the community at [PIVX Discord](https://discordapp.com/invite/jzqVsJd).
+A lot more information and specs at [myarkos.com](https://www.myarkos.com/). Join the community at [ARKOS Discord](https://discordapp.com/invite/jzqVsJd).
 
 ## License
-PIVX Core is released under the terms of the MIT license. See [COPYING](https://github.com/PIVX-Project/PIVX/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
+ARKOS Core is released under the terms of the MIT license. See [COPYING](https://github.com/PIVX-Project/PIVX/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
 
 ## Development Process
 
-The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/PIVX-Project/PIVX/tags) are created regularly from release branches to indicate new official, stable release versions of PIVX Core.
+The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/PIVX-Project/PIVX/tags) are created regularly from release branches to indicate new official, stable release versions of ARKOS Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](https://github.com/PIVX-Project/PIVX/blob/master/CONTRIBUTING.md) and useful hints for developers can be found in [doc/developer-notes.md](https://github.com/PIVX-Project/PIVX/blob/master/doc/developer-notes.md).
 
@@ -48,7 +48,7 @@ Changes should be tested by somebody other than the developer who wrote the code
 
 ## Translations
 
-Changes to translations as well as new translations can be submitted to PIVX Core's Transifex page.
+Changes to translations as well as new translations can be submitted to ARKOS Core's Transifex page.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the [translation process](https://github.com/PIVX-Project/PIVX/blob/master/doc/translation_process.md) for details on how this works.
 
